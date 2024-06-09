@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 I really don't have many things to show you. I am just un undergraduate from East China Normal University with an academic ambition. 
 
 If you are interested in my work, please contact: lele200303@gmail.com
+
+Simplified Chinese / Traditional Chinese / English / Japanese are okay!
