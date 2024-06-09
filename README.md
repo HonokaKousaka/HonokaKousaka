@@ -1,4 +1,4 @@
-### Welcome to Ryan Watson's GitHub Homepage! 😄
+### Welcome to Ryan Watson's GitHub Homepage! 
 
 <!--
 **HonokaKousaka/HonokaKousaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on algorithms and artificial intelligence related subjects.
-- 🌱 I’m currently learning artificial intelligence topics and algorithms.
-- 👯 I’m looking to collaborate on experts all over the world!
-- 🤔 I’m looking for help with paper reading, coding and opportunities on research.
-- 💬 Ask me about Computer Science, and myself!
-- 📫 Feel free to contact me with my e-mail: lele200303@gmail.com
-- ⚡ Fun fact: Currently an undergraduate at East China Normal University, pursuing academic dreams!
+I really don't have many things to show you. I am just un undergraduate from East China Normal University with an academic ambition. 
+
+If you are interested in my work, please contact: lele200303@gmail.com
