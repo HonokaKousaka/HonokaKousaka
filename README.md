@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I really don't have many things to show you. I am just un undergraduate from East China Normal University with an academic ambition. 
+I really don't have many things to show you. I am just an undergraduate from East China Normal University with an academic ambition. 
 
-If you are interested in my work, please contact: lele200303@gmail.com
+If you are interested in my work, please contact: reli@stu.ecnu.edu.cn
 
 Simplified Chinese / Traditional Chinese / English / Japanese are okay!
