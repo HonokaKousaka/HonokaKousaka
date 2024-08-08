@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I really don't have many things to show you. I am just an undergraduate from East China Normal University with an academic ambition. 
+Hello. I am currently working on algorithms and statistics. 
 
 If you are interested in my work, please contact: reli@stu.ecnu.edu.cn
 
 Simplified Chinese / Traditional Chinese / English / Japanese are okay!
+
+**I am also focusing on dealing with bullying, gender discrimination and domestic violence. If you need emotional and sentimental values because of any circumstances mentioned above, feel free to contact me.**
