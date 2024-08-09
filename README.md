@@ -23,4 +23,4 @@ If you are interested in my work, please contact: reli@stu.ecnu.edu.cn
 
 Simplified Chinese / Traditional Chinese / English / Japanese are okay!
 
-**I am also focusing on dealing with bullying, gender discrimination, domestic violence and Chinese-style education. If you need emotional and sentimental values or even formal help because of any circumstance mentioned above, feel free to contact me.**
+**I am also focusing on dealing with bullying, gender discrimination, domestic violence and Chinese-style education. If you need emotional and sentimental assistance or even formal help because of any circumstance mentioned above, feel free to contact me.**
