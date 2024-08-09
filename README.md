@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Hello. I am currently working on algorithms and statistics. 
 
+**My works: Coresets for Deletion-Robust k-Center Clustering (Short Research Paper accepted, CIKM 2024)**
+
 If you are interested in my work, please contact: reli@stu.ecnu.edu.cn
 
 Simplified Chinese / Traditional Chinese / English / Japanese are okay!
