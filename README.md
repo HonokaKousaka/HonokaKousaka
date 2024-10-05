@@ -19,8 +19,6 @@ Hello. I am currently working on algorithms and statistics.
 
 **My works: Coresets for Deletion-Robust k-Center Clustering (Short Research Paper accepted, CIKM 2024)**
 
-If you are interested in my work, please contact: reli@stu.ecnu.edu.cn / lele200303@gmail.com
+If you are interested in my work or you just want to have a chat with me, please contact: reli@stu.ecnu.edu.cn / lele200303@gmail.com
 
 Simplified Chinese / Traditional Chinese / English / Japanese are okay!
-
-**I am also focusing on dealing with bullying, gender discrimination, domestic violence and Chinese-style education. If you need emotional and sentimental assistance or even formal help because of any circumstance mentioned above, feel free to contact me.**
