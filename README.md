@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello. I am currently working on algorithms and statistics. 
+Hello, I am Ruien Li. I am currently working on machine learning theories, including clustering, fairness, diversity, deletion robustness and approximation algorithms. 
 
 **My works: Coresets for Deletion-Robust k-Center Clustering (Short Research Paper accepted, CIKM 2024)**
 
-If you are interested in my work or you just want to have a chat with me, please contact: reli@stu.ecnu.edu.cn / lele200303@gmail.com
+If you are interested in my work or you just want to have a chat with me, please contact: reli@stu.ecnu.edu.cn / lele200303@gmail.com / ryan_watson@foxmail.com
 
 Simplified Chinese / Traditional Chinese / English / Japanese are okay!
+
+For further information, please check [my academic website](https://honokakousaka.github.io/)! 
