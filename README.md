@@ -21,6 +21,6 @@ Hello, I am Ruien Li. I am currently working on machine learning theories, inclu
 
 If you are interested in my work or you just want to have a chat with me, please contact: reli@stu.ecnu.edu.cn / lele200303@gmail.com / ryan_watson@foxmail.com
 
-Simplified Chinese / Traditional Chinese / English / Japanese are okay!
+I can understand Simplified Chinese / Traditional Chinese / English / Japanese! 
 
 For further information, please check [my academic website](https://honokakousaka.github.io/)! 
