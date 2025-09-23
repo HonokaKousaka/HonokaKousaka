@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 Hello, I am Ruien Li. I am currently working on machine learning theories, including clustering, fairness, diversity, deletion robustness and approximation algorithms. 
 
-**My works: Coresets for Deletion-Robust k-Center Clustering (Short Research Paper accepted, CIKM 2024)**
+**My works:** 
+
+**Coresets for Deletion-Robust k-Center Clustering (Short Research Paper accepted, CIKM 2024)**
+
+**Individually Fair Diversity Maximization (Main Track, To appear at NeurIPS 2025)**
 
 If you are interested in my work or you just want to have a chat with me, please contact: reli@stu.ecnu.edu.cn / lele200303@gmail.com / ryan_watson@foxmail.com
 
